@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+## Aave Flash Loan
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
-Try running some of the following tasks:
+Created & deployed an aave Flash loan smart contract from scratch and deployed to goerli testnet.
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Deployed goerli contract address: 0x71bF6517CA51FC07BB91455b8F6C63D140e0f60c
